@@ -1,0 +1,5 @@
+#Fri Nov 24 10:04:02 CST 2017
+password=123
+name=tiantian
+url=jdbc\:oracle\:thin\:@localhost\:1521\:orcl
+driver=oracle.jdbc.driver.oracleDriver
